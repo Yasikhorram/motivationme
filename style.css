@@ -2,3 +2,12 @@ body {
   background-image: url("images/see.png");
   background-size: cover;
 }
+
+#title {
+  font-family: "Russo One", sans-serif;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
