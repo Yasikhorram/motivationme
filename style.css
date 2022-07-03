@@ -1,5 +1,7 @@
+* {
+  margin: 0;
+}
 body {
-  background-image: url("images/see.png");
   background-size: cover;
 }
 
@@ -8,6 +10,6 @@ body {
 }
 
 img {
-  height: 100%;
   width: 100%;
+  height: 100%;
 }
